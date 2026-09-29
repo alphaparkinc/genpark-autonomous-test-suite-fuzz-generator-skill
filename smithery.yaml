@@ -1,0 +1,6 @@
+name: genpark-autonomous-test-suite-fuzz-generator-skill
+version: 1.0.0
+description: Type-directed test case and boundary value fuzz input synthesizer for automated function testing
+command: python
+args:
+  - mcp_server.py
